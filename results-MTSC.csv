@@ -1,0 +1,36 @@
+﻿Domain,Dataset,RidgeClassifierCV,RandomForest,LogisticRegression,LDA,MaxLinear,MR,MuR,Rocket,,Diff,TRidgeClassiferCV,TRandomForest,TLogisticRegression,TLDA,,TMR,TMuR,TRocket
+Motion Classification,ArticularyWordRecognition,0.87,0.98,0.97,0.97,0.98,0.99,0.99,0.99,,-0.02,0.01,0.02,0.03,0.02,,0.15,0.24,0.76
+ECG Classification,AtrialFibrillation,0.33,0.33,0.4,0.2,0.4,0.13,0.07,0.07,,-0.59,0,0,0,0,,0.01,0.04,0.08
+Human Activity Recogntion,BasicMotions,0.63,0.73,0.63,0.35,0.73,1,1,1,,-0.27,0,0,0,0,,0.01,0.03,0.06
+Human Activity Recogntion,Cricket,0.82,0.89,0.92,0.93,0.93,0.99,0.99,1,,-0.06,0.01,0.01,0.05,0.01,,0.07,0.39,1.66
+Audio Spectra Classification,DuckDuckGeese,0.18,0.18,0.18,0.16,0.18,0.7,0.52,0.46,,-0.81,0.4,0.41,0.51,0.47,,5.57,5.93,5.56
+Human Activity Recogntion,EigenWorms,0.5,0.52,0.53,0.44,0.53,0.94,0.94,0.92,,-0.47,0.13,0.14,0.4,0.22,,1.93,10.5,37.14
+Motion Classification,Epilepsy,0.31,0.47,0.33,0.33,0.47,1,1,0.99,,-0.52,0,0.01,0,0,,0.02,0.09,0.29
+Human Activity Recogntion,ERing,0.95,0.95,0.96,0.88,0.96,0.98,0.98,0.98,,-0.04,0,0,0,0,,0.01,0.05,0.12
+Other,EthanolConcentration,0.48,0.43,0.65,0.81,0.81,0.48,0.57,0.43,,-0.18,0.02,0.02,0.03,0.02,,0.21,1.06,4.86
+EEG/MEG Classification,FaceDetection,0.57,0.61,0.65,0.57,0.65,0.58,0.6,0.61,,-0.35,2.84,3.2,2.66,3.55,,15.13,16.19,19.33
+EEG/MEG Classification,FingerMovements,0.58,0.49,0.59,0.56,0.59,0.57,0.57,0.55,,-0.4,0.02,0.03,0.02,0.02,,0.12,0.15,0.27
+EEG/MEG Classification,HandMovementDirection,0.54,0.47,0.58,0.49,0.58,0.39,0.34,0.51,,-0.41,0.01,0.01,0.02,0.01,,0.17,0.27,0.89
+Human Activity Recogntion,Handwriting,0.17,0.2,0.24,0.15,0.24,0.52,0.51,0.59,,-0.75,0.01,0.01,0.02,0.01,,0.05,0.23,0.78
+Audio Spectra Classification,Heartbeat,0.65,0.72,0.67,0.72,0.72,0.74,0.76,0.76,,-0.27,0.08,0.09,0.09,0.1,,1.6,1.8,2.83
+Other,Libras,0.52,0.74,0.63,0.51,0.74,0.92,0.92,0.91,,-0.25,0,0,0,0,,0.01,0.04,0.07
+Human Activity Recogntion,LSST,0.3,0.51,0.25,0.26,0.51,0.65,0.62,0.64,,-0.48,0.06,0.09,0.06,0.06,,0.14,0.56,1.41
+EEG/MEG Classification,MotorImagery,0.47,0.5,0.47,0.52,0.52,0.5,0.52,0.54,,-0.47,0.37,0.41,0.51,0.65,,11.03,12.87,19.92
+Human Activity Recogntion,NATOPS,0.73,0.78,0.74,0.76,0.78,0.94,0.89,0.87,,-0.22,0.01,0.02,0.02,0.02,,0.09,0.12,0.23
+Other,PEMS-SF,0.87,0.99,0.84,0.58,0.99,0.83,0.8,0.84,,0,0.96,0.99,1.41,1.18,,9.62,10.12,9.8
+Motion Classification,PenDigits,0.8,0.97,0.9,0.82,0.97,,,,,,0.04,0.07,0.04,0.04,,,,
+Audio Spectra Classification,PhonemeSpectra,0.05,0.09,0.05,0.04,0.09,0.32,0.31,0.28,,-0.9,0.25,0.77,0.28,0.24,,3.01,4.27,14.26
+Human Activity Recogntion,RacketSports,0.72,0.85,0.76,0.55,0.85,0.86,0.88,0.91,,-0.14,0,0.01,0,0,,0.01,0.04,0.07
+EEG/MEG Classification,SelfRegulationSCP1,0.73,0.82,0.77,0.73,0.82,0.92,0.94,0.85,,-0.17,0.02,0.03,0.02,0.03,,0.16,0.96,3.85
+EEG/MEG Classification,SelfRegulationSCP2,0.43,0.47,0.44,0.46,0.47,0.54,0.52,0.53,,-0.52,0.02,0.02,0.02,0.03,,0.15,0.85,3.66
+ECG Classification,StandWalkJump,0.6,0.47,0.53,0.2,0.6,0.4,0.4,0.47,,-0.39,0,0,0,0,,0.02,0.11,0.43
+Human Activity Recogntion,UWaveGestureLibrary,0.67,0.84,0.78,0.53,0.84,0.93,0.94,0.94,,-0.15,0.01,0.01,0.01,0.01,,0.05,0.19,0.72
+,,,,,,,,,,,,,,,,,,,
+,,0.556538462,0.615384615,0.594615385,0.52,,0.7128,0.7032,0.7056,,,5.27,6.37,6.2,6.69,,49.34,67.1,129.05
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,Mean Accuracy,Total Time,,,,Mean Accuracy,Total Time,,,,,,,,,,,
+,RidgeClassifierCV,0.56,5.27,,,Minirocket,0.712667314,49.33,,,,,,,,,,,
+,RandomForest,0.61,6.4,,,Multirocket,0.703215116,67.1,,,,,,,,,,,
+,LogisticRegression,0.59,6.2,,,Rocket,0.704852554,129.05,,,,,,,,,,,
+,LDA,0.52,6.7,,,,,,,,,,,,,,,,

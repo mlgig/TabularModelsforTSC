@@ -1,0 +1,27 @@
+﻿Domain,Problem,Acronym,TrainSize,TestSize,NumChannels,SeriesLength,NumClasses,ClassCounts,EqualLength
+Audio Spectra Classification,DuckDuckGeese,DDG,50,50,1345,270,5,10,TRUE
+ECG Classification,AtrialFibrillation,AF,15,15,2,640,3,5,TRUE
+Human Activity Recogntion,BasicMotions,BM,40,40,6,100,4,10,TRUE
+Human Activity Recogntion,Cricket,CKT,108,72,6,1197,12,9,TRUE
+Other,PEMS-SF,PSF,267,173,963,144,7,32,TRUE
+Human Activity Recogntion,EigenWorms,EW,128,131,6,17984,5,55,TRUE
+Motion Classification,Epilepsy,EP,137,138,3,206,4,34,TRUE
+Human Activity Recogntion,ERing,ER,30,270,4,65,6,5,TRUE
+Other,EthanolConcentration,EC,261,263,3,1751,4,65,TRUE
+EEG/MEG Classification,FaceDetection,FD,5890,3524,144,62,2,2945,TRUE
+EEG/MEG Classification,MotorImagery,MI,278,100,64,3000,2,139,TRUE
+Audio Spectra Classification,Heartbeat,HB,204,205,61,405,2,57,TRUE
+Human Activity Recogntion,Handwriting,HW,150,850,3,152,26,8,TRUE
+EEG/MEG Classification,FingerMovements,FM,316,100,28,50,2,159,TRUE
+Other,Libras,LB,180,180,2,45,15,12,TRUE
+Human Activity Recogntion,LSST,LSST,2459,2466,6,36,14,34,TRUE
+Human Activity Recogntion,NATOPS,NTP,180,180,24,51,6,30,TRUE
+Audio Spectra Classification,PhonemeSpectra,PS,3315,3353,11,217,39,85,TRUE
+EEG/MEG Classification,HandMovementDirection,HMD,160,74,10,400,4,40,TRUE
+Motion Classification,PenDigits,PD,7494,3498,2,8,10,780,TRUE
+Motion Classification,ArticularyWordRecognition,AWR,275,300,9,144,25,11,TRUE
+Human Activity Recogntion,RacketSports,RS,151,152,6,30,4,39,TRUE
+EEG/MEG Classification,SelfRegulationSCP1,SR1,268,293,6,896,2,135,TRUE
+EEG/MEG Classification,SelfRegulationSCP2,SR2,200,180,7,1152,2,100,TRUE
+ECG Classification,StandWalkJump,SWJ,12,15,4,2500,3,4,TRUE
+Human Activity Recogntion,UWaveGestureLibrary,UW,120,320,3,315,8,15,TRUE
